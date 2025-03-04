@@ -1,0 +1,7 @@
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 2\Guided\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 2\Guided\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 2\Guided\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 2\Guided\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 2\Guided\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 2\Guided\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 2\Guided\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
