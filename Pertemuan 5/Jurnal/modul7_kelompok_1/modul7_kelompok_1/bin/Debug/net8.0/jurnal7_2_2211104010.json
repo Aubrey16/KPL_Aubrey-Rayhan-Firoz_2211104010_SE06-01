@@ -1,0 +1,18 @@
+{
+  "members" : [
+    {
+       "firstName": "Ryzeal",
+       "lastName": "Deadnader",
+       "gender": "Pyro",
+       "age": 28,
+       "nim": "7349282382"
+    },
+    {
+       "firstName": "Ryzeal",
+       "lastName": "Duo Drive",
+       "gender": "Thunder",
+       "age": 32,
+       "nim": "5678568567"
+    }
+  ]
+}

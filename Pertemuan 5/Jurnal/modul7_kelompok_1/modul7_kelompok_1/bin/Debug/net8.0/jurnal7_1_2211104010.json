@@ -1,0 +1,15 @@
+{
+   "firstName": "Ryzeal",
+   "lastName": "Aubrey",
+   "gender": "Pyro",
+   "age": 20,
+   "address": {
+       "streetAddress": "Jl. Bonfire",
+       "city": "Hidden City",
+       "state": "Duel Terminal"
+   },
+   "courses": [
+       { "code": "DBCB", "name": "Ryzeal Arctype" },
+       { "code": "AGOV", "name": "Snake-eyes Arctype" }
+   ]
+}
