@@ -1,0 +1,5 @@
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 5\TP\tpmodul8_2211104010\tpmodul8_2211104010\obj\Debug\net8.0\tpmodul8_2211104010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 5\TP\tpmodul8_2211104010\tpmodul8_2211104010\obj\Debug\net8.0\tpmodul8_2211104010.AssemblyInfoInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 5\TP\tpmodul8_2211104010\tpmodul8_2211104010\obj\Debug\net8.0\tpmodul8_2211104010.AssemblyInfo.cs
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 5\TP\tpmodul8_2211104010\tpmodul8_2211104010\obj\Debug\net8.0\tpmodul8_2211104010.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 5\TP\tpmodul8_2211104010\tpmodul8_2211104010\obj\Debug\net8.0\tpmodul8_2211104010.sourcelink.json
