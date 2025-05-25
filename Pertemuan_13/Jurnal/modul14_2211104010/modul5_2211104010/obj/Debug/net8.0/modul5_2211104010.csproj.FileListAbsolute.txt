@@ -1,0 +1,30 @@
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.exe
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.deps.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.runtimeconfig.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.AssemblyInfoInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.AssemblyInfo.cs
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.sourcelink.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\refint\modul5_2211104010.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.genruntimeconfig.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 3\modul5_2211104010\modul5_2211104010\obj\Debug\net8.0\ref\modul5_2211104010.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.exe
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.deps.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.runtimeconfig.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\bin\Debug\net8.0\modul5_2211104010.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.AssemblyInfoInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.AssemblyInfo.cs
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.sourcelink.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\refint\modul5_2211104010.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\modul5_2211104010.genruntimeconfig.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_13\Jurnal\modul14_2211104010\modul5_2211104010\obj\Debug\net8.0\ref\modul5_2211104010.dll
