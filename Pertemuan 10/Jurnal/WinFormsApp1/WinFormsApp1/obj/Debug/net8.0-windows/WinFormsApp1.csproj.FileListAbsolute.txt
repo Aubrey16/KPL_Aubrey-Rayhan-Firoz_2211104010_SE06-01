@@ -1,0 +1,7 @@
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Jurnal\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\modul12_NIM.Form1.resources
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Jurnal\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Jurnal\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Jurnal\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Jurnal\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Jurnal\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Jurnal\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
