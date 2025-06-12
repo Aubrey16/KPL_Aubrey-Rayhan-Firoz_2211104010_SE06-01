@@ -1,0 +1,2 @@
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AljabarLibraries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+216a37cc52f06b167c8c647ea5d04316ef3eec3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19d86df6a1f131eed3a3a90d9e78feeb0517842a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AljabarLibraries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AljabarLibraries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

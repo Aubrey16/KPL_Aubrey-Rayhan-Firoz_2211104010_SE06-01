@@ -5,3 +5,11 @@ C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firo
 C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.csproj.CoreCompileInputs.cache
 C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.exe
 C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\bin\Debug\tpmodul13_2211104010.exe.config
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\bin\Debug\tpmodul13_2211104010.exe
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\bin\Debug\tpmodul13_2211104010.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.csproj.AssemblyReference.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.exe.config
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.exe
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_10\Tp\tpmodul13_2211104010\tpmodul13_2211104010\obj\Debug\tpmodul13_2211104010.pdb

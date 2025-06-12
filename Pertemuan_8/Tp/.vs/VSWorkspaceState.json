@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\tpModul10_2211104010",
+    "\\tpModul10_2211104010\\AljabarConsole"
   ],
-  "SelectedNode": "\\tpModul10_2211104010.sln",
+  "SelectedNode": "\\tpModul10_2211104010\\AljabarConsole\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

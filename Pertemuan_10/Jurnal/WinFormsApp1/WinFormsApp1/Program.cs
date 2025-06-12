@@ -1,3 +1,5 @@
+using modul12_NIM;
+
 namespace WinFormsApp1
 {
     internal static class Program

@@ -13,3 +13,18 @@ C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firo
 C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 4\Tp007\Tp007\obj\Debug\net8.0\Tp007.pdb
 C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 4\Tp007\Tp007\obj\Debug\net8.0\Tp007.genruntimeconfig.cache
 C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan 4\Tp007\Tp007\obj\Debug\net8.0\ref\Tp007.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\bin\Debug\net8.0\Tp007.exe
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\bin\Debug\net8.0\Tp007.deps.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\bin\Debug\net8.0\Tp007.runtimeconfig.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\bin\Debug\net8.0\Tp007.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\bin\Debug\net8.0\Tp007.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.AssemblyInfoInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.AssemblyInfo.cs
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.sourcelink.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\refint\Tp007.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\Tp007.genruntimeconfig.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_4\Tp007\Tp007\obj\Debug\net8.0\ref\Tp007.dll

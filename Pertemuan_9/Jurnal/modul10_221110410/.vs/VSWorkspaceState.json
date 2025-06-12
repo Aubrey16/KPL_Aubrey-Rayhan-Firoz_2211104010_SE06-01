@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MainApp",
+    "\\MatematikaLibraries"
   ],
-  "SelectedNode": "\\MainApp",
+  "SelectedNode": "\\MainApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

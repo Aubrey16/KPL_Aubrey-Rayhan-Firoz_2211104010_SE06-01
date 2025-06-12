@@ -1,0 +1,12 @@
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.sourcelink.json
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\aubre\Document\kuliah\kuliah\Tugas\Praktikum KPL\KPL_Aubrey-Rayhan-Firoz_2211104010_SE06-01\Pertemuan_9\Jurnal\modul10_221110410\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll
